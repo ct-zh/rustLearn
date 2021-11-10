@@ -1,2 +1,1 @@
-# 3l
-laravel, library, learn
+# rust learn
